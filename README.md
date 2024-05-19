@@ -1,1 +1,1 @@
-# mkdocs.github.io
+https://baizihan.com/docs/
