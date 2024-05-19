@@ -14,6 +14,10 @@ nav:
     - GameDev/gameplay.md
   - 工具与效率:
     - Tool/index.md
+  - 网站:
+    - Website/index.md
+    - Website/mkdocs.md
+    - Website/github_pages.md
   - 关于:
     - About/index.md
 
