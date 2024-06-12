@@ -11,7 +11,11 @@ nav:
     - Computer/index.md
   - 游戏开发:
     - GameDev/index.md
+    - GameDev/unity.md
+    - GameDev/unreal.md
+    - GameDev/godot.md
     - GameDev/gameplay.md
+    - GameDev/multi_player.md
   - 工具与效率:
     - Tool/index.md
   - 网站:

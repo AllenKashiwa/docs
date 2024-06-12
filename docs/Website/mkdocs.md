@@ -36,11 +36,11 @@ mkdocs serve -a localhost:7000
 echo "site/" >> .gitignore
 ```
 
-# Materail主题
+## Materail主题
 
 本站选用[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)主题。
 
-## 安装Material
+### 安装Material
 
 ```
 pip install mkdocs-material
